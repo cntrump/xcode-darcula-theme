@@ -1,6 +1,6 @@
 # Xcode Darcula theme
 
-darcula theme for Xcode.
+Darcula theme for Xcode.
 
 ![](darcula.png)
 
